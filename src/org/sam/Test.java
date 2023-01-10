@@ -5,8 +5,9 @@ public static void main(String[] args) {
 	
 	
 	
-	System.out.println("ABCD");
-	System.out.println("jsgdf");
-	System.out.println("dgdjf");
+	System.out.println("java");
+	System.out.println("python");
+	System.out.println("hadoop");
+	
 }
 }
